@@ -1,5 +1,7 @@
 # TI_PDS
 TI_PDS using App designer
+
+
 DISEÑO DE LA INTERFAZ
 a)	Seleccionar los tres sonidos de interés de algún sitio de internet (no más de 10 segundos de duración). Además, deben tener una Fs=16 KHz, un solo canal y codificado con 8 o 16 bits/muestra.	(04 puntos).		                                                                        
 Para la elaboración del presente trabajo de investigación, se va a reconocer instrumentos musicales como la flauta, la guitarra, así como también el sonido de dos frecuencias, 1600 Hz y 2400 Hz.
